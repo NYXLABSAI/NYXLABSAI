@@ -7,7 +7,7 @@ _The future of finance is already here._
 ---
 
 ## 📁 Project Structure
-
+```
 nyxlabsai/
 ├── app/ # Core logic (agents, models, services, utils)
 │ ├── agents/ # BaseAgent, TraderAgent
@@ -20,3 +20,4 @@ nyxlabsai/
 ├── requirements.txt # Dependencies
 ├── README.md # You are here
 └── .gitignore # Git exclusions
+```
