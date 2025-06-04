@@ -1,0 +1,27 @@
+
+---
+
+### 📄 `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Env
+.env
+
+# Data
+*.csv
+*.json
+/data/
+
+# Logs
+*.log
+/logs/
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
